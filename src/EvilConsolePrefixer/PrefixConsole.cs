@@ -1,4 +1,4 @@
-namespace monkeypatch_test;
+namespace EvilConsolePrefixer;
 
 public static class PrefixConsole
 {

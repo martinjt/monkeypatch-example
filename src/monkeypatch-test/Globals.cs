@@ -1,1 +1,0 @@
-global using Console = monkeypatch_test.PrefixConsole;
