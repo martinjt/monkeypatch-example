@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{41C8812B-A528-405F-BDC7-F0C1F4219D43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "monkeypatch-test", "src\monkeypatch-test\monkeypatch-test.csproj", "{2D41B656-3734-49DE-9FF7-E855147E6D07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D41B656-3734-49DE-9FF7-E855147E6D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D41B656-3734-49DE-9FF7-E855147E6D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D41B656-3734-49DE-9FF7-E855147E6D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D41B656-3734-49DE-9FF7-E855147E6D07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2D41B656-3734-49DE-9FF7-E855147E6D07} = {41C8812B-A528-405F-BDC7-F0C1F4219D43}
+	EndGlobalSection
+EndGlobal
